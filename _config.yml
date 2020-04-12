@@ -23,6 +23,7 @@ social:
 
 timezone: Etc/UTC
 
+# Google Analytics
 google_analytics: UA-162550995-6
 
 permalink: pretty
