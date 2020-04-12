@@ -4,7 +4,6 @@
 title: Doc Site Template
 # url: "https://long-pig.cloudvent.net"
 baseurl:
-analytics: UA-162550995-6
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -23,6 +22,8 @@ social:
 # Build
 
 timezone: Etc/UTC
+
+google_analytics: UA-162550995-6
 
 permalink: pretty
 
