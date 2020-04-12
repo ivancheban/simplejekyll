@@ -3,6 +3,7 @@
 
 title: Doc Site Template
 # url: "https://long-pig.cloudvent.net"
+google_analytics_key: UA-162550995-6
 baseurl:
 show_full_navigation: true
 
@@ -22,9 +23,6 @@ social:
 # Build
 
 timezone: Etc/UTC
-
-# Google Analytics
-google_analytics: UA-162550995-6
 
 permalink: pretty
 
